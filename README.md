@@ -137,7 +137,23 @@
 <!-- [![(50.003) Elements of Software Construction - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=DeProfessorA&repo=construct-software-wow&border_color=457BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=457BFF)](https://github.com/DeProfessorA/construct-software-wow) -->
 [![(50.007) Machine Learning - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=verneylmavt&repo=hmm-text_analysis-py&border_color=457BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=457BFF)](https://github.com/verneylmavt/hmm-text_analysis-py)
 <!--  -->
+<hr>
 
+
+
+<!--  -->
+<p align="center">
+  <a href="https://github.com/verneylmavt">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=verneylmavt&theme=radical&border=7F3FBF&background=0D1117"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/verneylmavt">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=verneylmavt&theme=radical"/>
+  </a>
+</p>
+<!--  -->
 
 
 
@@ -146,9 +162,4 @@
     <b>Happy Coding! </b>
     <img src="https://media.giphy.com/media/Y03L5F8T2j6eSy6xrP/giphy.gif" width="45" style="vertical-align: -5px;">
 </h1>
--->
-
-<!--
-COLOR:
-- 457BFF
 -->
