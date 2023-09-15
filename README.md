@@ -121,11 +121,23 @@
 </h2>
 <!--  -->
 
+<!--
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verneylmavt&show_icons=true&locale=en&layout=compact" alt="verneylmavt" />
 </p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=verneylmavt&show_icons=true&locale=en" alt="verneylmavt" />
+</p>
+-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verneylmavt&show_icons=true&locale=en" alt="verneylmavt" /></p>
+<!--  -->
+[![(10.020) Data Driven World & (10.022) Modelling Uncertainty - 2D Project](https://github-readme-stats.vercel.app/api/pin/?username=verneylmavt&repo=regression-food_security-py&border_color=457BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=457BFF)](https://github.com/verneylmavt/regression-food_security-py)
+<!-- [![(50.002) Computation Structures - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=50002-computation-structures&repo=5Heads&border_color=457BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=457BFF)](https://github.com/verneylmavt/regression-food_security-py) -->
+[![(50.001) Introduction to Information Systems & Programming - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=nigelpoh&repo=Digital-Trail-App&border_color=457BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=457BFF)](https://github.com/nigelpoh/Digital-Trail-App)
+[![(50.003) Elements of Software Construction - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=DeProfessorA&repo=construct-software-wow&border_color=457BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=457BFF)](https://github.com/DeProfessorA/construct-software-wow)
+<!--  -->
+
+
 
 
 <!--
