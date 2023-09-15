@@ -73,7 +73,7 @@
 
 <!--  -->
 <h2 align="left">
-    Languages and Tools
+    Languages & Tools
 </h2>
 <!--  -->
 
@@ -86,6 +86,30 @@
     <img src="https://img.shields.io/badge/PYTHON-5168bd?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-659bd3?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVA-ed2025?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/FIGMA-a358ff?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-dd4b25?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-214ce5?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/JAVASCRIPT-fcb040?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <br>
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/FIREBASE-f68304?style=for-the-badge&logo=firebase&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MATPLOTLIB-e8ddab?style=for-the-badge&logo=matternet&logoColor=black"/>
+    <img src="https://img.shields.io/badge/SEABORN-7eb1bd?style=for-the-badge&logo=circle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SCIKITLEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/GIT-f03c2e?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/BASH-232c34?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 <!--  -->
 
@@ -97,7 +121,9 @@
 </h2>
 <!--  -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verneylmavt&show_icons=true&locale=en&layout=compact" alt="verneylmavt" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verneylmavt&show_icons=true&locale=en&layout=compact" alt="verneylmavt" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verneylmavt&show_icons=true&locale=en" alt="verneylmavt" /></p>
 
