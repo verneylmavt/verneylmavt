@@ -9,7 +9,7 @@
 
 <!--  -->
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&color=7bd4f1&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Self-Taught+Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&color=bddfff&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Self-Taught+Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
     </a>
 </p>
 <!--  -->
@@ -131,11 +131,11 @@
 -->
 
 <!--  -->
-[![(10.020) Data Driven World & (10.022) Modelling Uncertainty - 2D Project](https://github-readme-stats.vercel.app/api/pin/?username=verneylmavt&repo=regression-food_security-py&border_color=7bd4f1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=70a5fd)](https://github.com/verneylmavt/regression-food_security-py)
+[![(10.020) Data Driven World & (10.022) Modelling Uncertainty - 2D Project](https://github-readme-stats.vercel.app/api/pin/?username=verneylmavt&repo=regression-food_security-py&border_color=7bd4f1&bg_color=0D1117&title_color=bddfff&text_color=8B949E&icon_color=38a0ff)](https://github.com/verneylmavt/regression-food_security-py)
 <!-- [![(50.002) Computation Structures - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=50002-computation-structures&repo=5Heads&border_color=457BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=457BFF)](https://github.com/verneylmavt/regression-food_security-py) -->
-[![(50.001) Introduction to Information Systems & Programming - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=nigelpoh&repo=Digital-Trail-App&border_color=7bd4f1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=70a5fd)](https://github.com/nigelpoh/Digital-Trail-App)
+[![(50.001) Introduction to Information Systems & Programming - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=nigelpoh&repo=Digital-Trail-App&border_color=7bd4f1&bg_color=0D1117&title_color=bddfff&text_color=8B949E&icon_color=38a0ff)](https://github.com/nigelpoh/Digital-Trail-App)
 <!-- [![(50.003) Elements of Software Construction - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=DeProfessorA&repo=construct-software-wow&border_color=457BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=457BFF)](https://github.com/DeProfessorA/construct-software-wow) -->
-[![(50.007) Machine Learning - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=verneylmavt&repo=hmm-text_analysis-py&border_color=7bd4f1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=70a5fd)](https://github.com/verneylmavt/hmm-text_analysis-py)
+[![(50.007) Machine Learning - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=verneylmavt&repo=hmm-text_analysis-py&border_color=7bd4f1&bg_color=0D1117&title_color=bddfff&text_color=8B949E&icon_color=38a0ff)](https://github.com/verneylmavt/hmm-text_analysis-py)
 <!--  -->
 <hr>
 
@@ -144,13 +144,13 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/verneylmavt">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=verneylmavt&theme=tokyonight&border=7bd4f1&background=0D1117"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=verneylmavt&theme=prussian&border=7bd4f1&background=0D1117"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/verneylmavt">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=verneylmavt&theme=tokyonight&border=7F3FBF"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=verneylmavt&theme=prussian&border=7F3FBF"/>
   </a>
 </p>
 <!--  -->
