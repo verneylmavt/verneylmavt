@@ -84,6 +84,8 @@
 <!--  -->
 <p align="left">
     <img src="https://img.shields.io/badge/PYTHON-5168bd?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FLASK-8fd0d9?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <br>
 <!--     <img src="https://img.shields.io/badge/C-659bd3?style=for-the-badge&logo=c&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
