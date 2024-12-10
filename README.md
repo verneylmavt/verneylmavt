@@ -84,7 +84,7 @@
 <!--  -->
 <p align="left">
     <img src="https://img.shields.io/badge/PYTHON-5168bd?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FLASK-8fd0d9?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FLASK-8fd0d9?style=for-the-badge&logo=flask&logoColor=black"/>
     <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <br>
 <!--     <img src="https://img.shields.io/badge/C-659bd3?style=for-the-badge&logo=c&logoColor=white"/> -->
@@ -97,23 +97,24 @@
     <br>
     <img src="https://img.shields.io/badge/PYTORCH-df2027?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GENSIM-7a9aef?style=for-the-badge&logo=circleci&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GENSIM-7a9aef?style=for-the-badge&logo=circleci&logoColor=white"/>
     <img src="https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-    <img src="https://img.shields.io/badge/OPTUNA-293e78?style=for-the-badge&logo=spinrilla&logoColor=black"/>
+    <img src="https://img.shields.io/badge/OPTUNA-293e78?style=for-the-badge&logo=spinrilla&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/JAVA-ed2025?style=for-the-badge&logo=coffeescript&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/FIGMA-a358ff?style=for-the-badge&logo=figma&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/HTML-dd4b25?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-214ce5?style=for-the-badge&logo=css3&logoColor=white"/>
     <!-- <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/JAVASCRIPT-fcb040?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <br>
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/REACT-7bd4f1?style=for-the-badge&logo=react&logoColor=black"/>
-    <br>
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <!-- <img src="https://img.shields.io/badge/FIREBASE-f68304?style=for-the-badge&logo=firebase&logoColor=white"/> -->
+    <br>
+    <img src="https://img.shields.io/badge/JAVA-ed2025?style=for-the-badge&logo=coffeescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <br>
