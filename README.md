@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/XGBOOST-EE4C2C?style=for-the-badge&logo=boosty&logoColor=white"/>
     <img src="https://img.shields.io/badge/PYTORCH-df2027?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
     <br>
     <img src="https://img.shields.io/badge/JAVA-ed2025?style=for-the-badge&logo=coffeescript&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/FIGMA-a358ff?style=for-the-badge&logo=figma&logoColor=white"/> -->
