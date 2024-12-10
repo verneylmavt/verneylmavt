@@ -92,9 +92,12 @@
 <!--     <img src="https://img.shields.io/badge/SEABORN-7eb1bd?style=for-the-badge&logo=circle&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/SCIKITLEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
     <img src="https://img.shields.io/badge/XGBOOST-EE4C2C?style=for-the-badge&logo=boosty&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/PYTORCH-df2027?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GENSIM-7a9aef?style=for-the-badge&logo=circleci&logoColor=black"/>
     <img src="https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/OPTUNA-293e78?style=for-the-badge&logo=spinrilla&logoColor=black"/>
     <br>
     <img src="https://img.shields.io/badge/JAVA-ed2025?style=for-the-badge&logo=coffeescript&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/FIGMA-a358ff?style=for-the-badge&logo=figma&logoColor=white"/> -->
