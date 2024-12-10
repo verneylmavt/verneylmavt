@@ -97,9 +97,9 @@
     <br>
     <img src="https://img.shields.io/badge/PYTORCH-df2027?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GENSIM-7a9aef?style=for-the-badge&logo=circleci&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/GENSIM-7a9aef?style=for-the-badge&logo=circleci&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-    <img src="https://img.shields.io/badge/OPTUNA-293e78?style=for-the-badge&logo=spinrilla&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/OPTUNA-293e78?style=for-the-badge&logo=spinrilla&logoColor=white"/> -->
     <br>
 <!--     <img src="https://img.shields.io/badge/FIGMA-a358ff?style=for-the-badge&logo=figma&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/HTML-dd4b25?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -115,6 +115,8 @@
     <!-- <img src="https://img.shields.io/badge/FIREBASE-f68304?style=for-the-badge&logo=firebase&logoColor=white"/> -->
     <br>
     <img src="https://img.shields.io/badge/JAVA-ed2025?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <br>
