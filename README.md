@@ -30,8 +30,12 @@
     <a href="https://github.com/verneylmavt" target="_blank">
         <img src="https://img.shields.io/badge/GITHUB-27005D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: verneylmavt"  />
     </a> 
-    <a href="https://twitter.com/verneylmavt" target="_blank">
+    <a href="https://x.com/verneylmavt" target="_blank">
         <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter: verneylmavt" />
+    </a>
+    </a> 
+    <a href="https://verneylogyt.streamlit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/ML MODELS-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
     </a> 
 </p>
 <!--  -->
@@ -86,8 +90,8 @@
     <img src="https://img.shields.io/badge/PYTHON-5168bd?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/FLASK-8fd0d9?style=for-the-badge&logo=flask&logoColor=black"/>
     <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <br>
 <!--     <img src="https://img.shields.io/badge/C-659bd3?style=for-the-badge&logo=c&logoColor=white"/> -->
+    <br>
     <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/MATPLOTLIB-e8ddab?style=for-the-badge&logo=matternet&logoColor=black"/>
