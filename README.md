@@ -18,9 +18,11 @@
 
 <!--  -->
 <p align="center">
+    <!-- 
     <a href="https://verneylmavt.github.io/" target="blank">
         <img src="https://img.shields.io/badge/PERSONAL_WEBSITE-1D1B1F?style=for-the-badge&logo=medium&logoColor=white" alt="Personal Website: https://verneylmavt.github.io/" />
     </a>
+    -->
     <a href="mailto:elvernneylmav@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: elvernneylmav@gmail.com"/>
     </a>
@@ -157,8 +159,8 @@
 <hr>
 
 
-
 <!--  -->
+<!--
 <p align="center">
   <a href="https://github.com/verneylmavt">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=verneylmavt&theme=prussian&border=7bd4f1&background=0D1117"/>
@@ -170,8 +172,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=verneylmavt&theme=prussian&border=7F3FBF"/>
   </a>
 </p>
+-->
 <!--  -->
-
 
 
 <!--
