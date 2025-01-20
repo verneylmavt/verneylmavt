@@ -78,9 +78,11 @@
 
 
 <!--  -->
+<!--
 <h2 align="left">
     Languages & Tools
 </h2>
+-->
 <!--  -->
 
 <!--
@@ -100,7 +102,7 @@
 <!--     <img src="https://img.shields.io/badge/SEABORN-7eb1bd?style=for-the-badge&logo=circle&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/SCIKITLEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
     <img src="https://img.shields.io/badge/XGBOOST-EE4C2C?style=for-the-badge&logo=boosty&logoColor=white"/>
-    <br>
+<!--     <br> -->
     <img src="https://img.shields.io/badge/PYTORCH-df2027?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/GENSIM-7a9aef?style=for-the-badge&logo=circleci&logoColor=white"/> -->
@@ -112,11 +114,10 @@
     <img src="https://img.shields.io/badge/CSS-214ce5?style=for-the-badge&logo=css3&logoColor=white"/>
     <!-- <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/JAVASCRIPT-fcb040?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <br>
-    <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
     <img src="https://img.shields.io/badge/REACT-7bd4f1?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <!-- <img src="https://img.shields.io/badge/FIREBASE-f68304?style=for-the-badge&logo=firebase&logoColor=white"/> -->
     <br>
