@@ -37,7 +37,7 @@
     </a>
     </a> 
     <a href="https://verneylogyt.streamlit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/ML MODELS-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML MODELS COLLECTION-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
     </a> 
 </p>
 <!--  -->
@@ -102,7 +102,7 @@
 <!--     <img src="https://img.shields.io/badge/SEABORN-7eb1bd?style=for-the-badge&logo=circle&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/SCIKITLEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
     <img src="https://img.shields.io/badge/XGBOOST-EE4C2C?style=for-the-badge&logo=boosty&logoColor=white"/>
-<!--     <br> -->
+    <br>
     <img src="https://img.shields.io/badge/PYTORCH-df2027?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/GENSIM-7a9aef?style=for-the-badge&logo=circleci&logoColor=white"/> -->
@@ -120,13 +120,12 @@
     <img src="https://img.shields.io/badge/REACT-7bd4f1?style=for-the-badge&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <!-- <img src="https://img.shields.io/badge/FIREBASE-f68304?style=for-the-badge&logo=firebase&logoColor=white"/> -->
-    <br>
+<!--     <br>
     <img src="https://img.shields.io/badge/JAVA-ed2025?style=for-the-badge&logo=coffeescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> -->
     <br>
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <br>
     <br>
     <img src="https://img.shields.io/badge/GIT-f03c2e?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/BASH-232c34?style=for-the-badge&logo=gnubash&logoColor=white"/>
