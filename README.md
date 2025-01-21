@@ -23,6 +23,9 @@
         <img src="https://img.shields.io/badge/PERSONAL_WEBSITE-1D1B1F?style=for-the-badge&logo=medium&logoColor=white" alt="Personal Website: https://verneylmavt.github.io/" />
     </a>
     -->
+    <a href="https://x.com/verneylmavt" target="_blank">
+        <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter: verneylmavt" />
+    </a>
     <a href="mailto:elvernneylmav@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: elvernneylmav@gmail.com"/>
     </a>
@@ -32,9 +35,6 @@
     <a href="https://github.com/verneylmavt" target="_blank">
         <img src="https://img.shields.io/badge/GITHUB-27005D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: verneylmavt"  />
     </a> 
-    <a href="https://x.com/verneylmavt" target="_blank">
-        <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter: verneylmavt" />
-    </a>
     </a> 
     <a href="https://verneylogyt.streamlit.app/" target="_blank">
         <img src="https://img.shields.io/badge/ML MODELS COLLECTION-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
