@@ -9,7 +9,7 @@
 
 <!--  -->
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&color=7bd4f1&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Aspired+Back-End+Developer;Artificial+Intelligence+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&color=7bd4f1&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Aspired+Machine+Learning+Engineer;AI+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
     </a>
 </p>
 <!--  -->
