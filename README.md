@@ -130,6 +130,8 @@
     <img src="https://img.shields.io/badge/GIT-f03c2e?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/BASH-232c34?style=for-the-badge&logo=gnubash&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DOCKER-2396ed?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/KUBERNETES-316de6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 <!--  -->
 
