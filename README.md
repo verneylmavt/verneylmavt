@@ -162,7 +162,6 @@
 <!-- [![(50.003) Elements of Software Construction - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=DeProfessorA&repo=construct-software-wow&border_color=7bd4f1&bg_color=0D1117&title_color=bddfff&text_color=8B949E&icon_color=38a0ff)](https://github.com/DeProfessorA/construct-software-wow) -->
 <!-- [![(50.007) Machine Learning - 1D Project](https://github-readme-stats.vercel.app/api/pin/?username=verneylmavt&repo=hmm-text_analysis-py&border_color=7bd4f1&bg_color=0D1117&title_color=bddfff&text_color=8B949E&icon_color=38a0ff)](https://github.com/verneylmavt/hmm-text_analysis-py) -->
 <!--  -->
-<hr>
 
 
 <!--  -->
