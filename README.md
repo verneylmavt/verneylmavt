@@ -1,14 +1,19 @@
 <!--  -->
-<h1 align="center">
-    <b>
-        Hi, I'm 
-        <a href="https://verneylmavt.github.io/" target="_blank">Elvern Neylmav Tanny</a>
-    </b>
-    <img src="https://media.giphy.com/media/NfKnZceHRpkn2ziaNk/giphy.gif" width="45" style="vertical-align: -5px;">
-</h1>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+         <b>
+            Hi, I'm 
+            <a href="https://verneylmavt.github.io/" target="_blank">Elvern Neylmav Tanny</a>
+         </b>
+         <img src="https://media.giphy.com/media/NfKnZceHRpkn2ziaNk/giphy.gif" width="45" style="vertical-align: -5px;">
+      </h1>
+    </summary>
+  </ul>
+</div>
+<hr>
 <!--  -->
-
-
 
 <!--  -->
 <p align="center">
