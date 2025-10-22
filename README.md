@@ -32,10 +32,10 @@
     </a>
     -->
     <a href="https://x.com/verneylmavt" target="_blank">
-        <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter: verneylmavt" />
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: verneylmavt" />
     </a>
     <a href="mailto:elvernneylmav@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: elvernneylmav@gmail.com"/>
+        <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: elvernneylmav@gmail.com"/>
     </a>
     <a href="https://www.linkedin.com/in/elvern-neylmav-t/" target="_blank">
         <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Elvern Neylmav Tanny"/>
