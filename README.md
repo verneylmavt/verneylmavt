@@ -105,8 +105,8 @@
     <img src="https://img.shields.io/badge/MATPLOTLIB-7A76FF?style=for-the-badge&logo=plotly&logoColor=white"/>
     <img src="https://img.shields.io/badge/SCIKIT LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
     <img src="https://img.shields.io/badge/XGBOOST-EE4C2C?style=for-the-badge&logo=boosty&logoColor=white"/>
-    <br>
     <img src="https://img.shields.io/badge/PYTORCH-df2027?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/TRANSFORMERS-24163b?style=for-the-badge&logo=huggingface&logoColor=white"/>
     <img src="https://img.shields.io/badge/LANGCHAIN-1c3c3a?style=for-the-badge&logo=langchain&logoColor=white"/>
     <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
