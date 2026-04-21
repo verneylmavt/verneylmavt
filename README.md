@@ -109,6 +109,7 @@
     <img src="https://img.shields.io/badge/PYTORCH-df2027?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/TRANSFORMERS-24163b?style=for-the-badge&logo=huggingface&logoColor=white"/>
     <img src="https://img.shields.io/badge/LANGCHAIN-1c3c3a?style=for-the-badge&logo=langchain&logoColor=white"/>
+    <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
     <img src="https://img.shields.io/badge/OPENAI SDK-0081A5?style=for-the-badge&logo=openaigym&logoColor=white"/>
     <img src="https://img.shields.io/badge/CLAUDE CODE-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
     <img src="https://img.shields.io/badge/APACHE SPARK-e35a15?style=for-the-badge&logo=apachespark&logoColor=white"/>
