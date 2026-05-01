@@ -29,6 +29,10 @@
     <a href="https://verneylmavt.com/" target="blank">
         <img src="https://img.shields.io/badge/PERSONAL_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Website: https://verneylmavt.github.io/" />
     </a>
+    <a href="https://verneytography.vercel.app/" target="blank">
+        <img src="https://img.shields.io/badge/PHOTOGRAPHY_PORTFOLIO_WEBSITE-000000?style=for-the-badge&logo=sony&logoColor=white" alt="Personal Website: https://verneylmavt.github.io/" />
+    </a>
+    <br>
     <a href="mailto:elvernneylmav@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: elvernneylmav@gmail.com"/>
     </a>
@@ -96,7 +100,7 @@
 -->
 
 <!--  -->
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/FAST API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <br>
